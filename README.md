@@ -24,5 +24,7 @@ Manager and Tech Lead for RnD and Software Development with 16 years of experien
 * Highload and distributed systems
 * Core libraries development in C++
 
+### Publications and public talks - [Link](./publications.md)
+
 Mentor @ [Getmentor](https://getmentor.dev/mentor/anatoly-drobkov-289) \
 Hit me in [Tg](https://t.me/mr_esp)
