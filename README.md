@@ -15,7 +15,9 @@ Manager and Tech Lead for RnD and Software Development with 16 years of experien
 2013 - 2014 - Render Developer, Navigation C++/C# \
 2014 - 2018 - Research Developer (Computer vision, NLP, Web) \
 2018 - 2024 - RnD Team Lead, Principal Engineer \
-2024 - now  - Head of ML Research Team
+2024 - 2025 - Head of ML Research Team (LLM, Voice) \
+2025 - 2025 - CTO (LLM) \
+2026 - ...  - ML and GPU Team Lead/Expert
 
 
 ### Technical expertise and interests
