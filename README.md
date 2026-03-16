@@ -22,9 +22,10 @@ Manager and Tech Lead for RnD and Software Development with 16 years of experien
 
 ### Technical expertise and interests
 * LLM and general machine learning
+* AI Acceleration and GPU programming
 * Computer Vision
 * Highload and distributed systems
-* Core libraries development in C++
+* Core libraries development in C++, C#
 
 ### Publications and public talks - [Link](./publications.md)
 
